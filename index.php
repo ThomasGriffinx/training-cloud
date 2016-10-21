@@ -102,38 +102,38 @@
             <div class="col s12 m4 l4">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
-                    <a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes">
-                        <img class="activator" src="iTunes.png">
+                    <a href=#>
+                        <img class="activator" src="">
                         </a>
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Java<i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="https://itunes.apple.com/album/id1154163561?ls=1&app=itunes"></a></p>
+                        <p><a href=#></a></p>
                     </div>
                 </div>
             </div>
             <div class="col s12 m4 l4">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
-                      <a href="https://www.amazon.co.uk/Save-Me-Socio/dp/B01LZH8WSM/ref=sr_1_1?s=dmusic&ie=UTF8&qid=1476019863&sr=1-1-mp3-albums-bar-strip-0&keywords=save+me+socio">
-                        <img class="activator" src="amazonmusic.png">
+                      <a href=#>
+                        <img class="activator" src="">
                         </a>
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">HTML<i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#"></a></p>
+                        <span class="card-title activator grey-text text-darken-4">HTML(Coming Soon)<i class="mdi-navigation-more-vert right"></i></span>
+                        <p><a href=#></a></p>
                     </div>
                 </div>
             </div>
             <div class="col s12 m4 l4">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
-                    <a href="https://play.spotify.com/album/0RCzakXMp1d8WXUmnXtMIb?play=true&utm_source=open.spotify.com&utm_medium=open">
-                        <img class="activator" src="spotify.png">
+                    <a href=#>
+                        <img class="activator" src="">
                         </a>
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Swift<i class="mdi-navigation-more-vert right"></i></span>
+                        <span class="card-title activator grey-text text-darken-4">Swift (Coming Soon)<i class="mdi-navigation-more-vert right"></i></span>
                         <p><a href="#"></a></p>
                     </div>
                 </div>
