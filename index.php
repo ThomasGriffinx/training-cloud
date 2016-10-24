@@ -4,7 +4,6 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
   <title>Training Cloud</title>
-  <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -30,7 +29,7 @@
           <h5 class="header col s12 light">A Modern Training Solution for Novice Programmers</h5>
         </div>
         <div class="row center">
-          <a href="https://developers.openshift.com/getting-started" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Get Started</a>
+          <a href="../SignUp.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Get Started</a>
         </div>
         <br><br>
       </div>
