@@ -101,7 +101,7 @@
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
                     <a href=#>
-                        <img class="activator" src="">
+                        <img class="activator" src="java.jpg">
                         </a>
                     </div>
                     <div class="card-content">
@@ -110,31 +110,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col s12 m4 l4">
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light">
-                      <a href=#>
-                        <img class="activator" src="">
-                        </a>
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">HTML(Coming soon)<i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href=#></a></p>
-                    </div>
-                </div>
+     
             </div>
-            <div class="col s12 m4 l4">
-                <div class="card">
-                    <div class="card-image waves-effect waves-block waves-light">
-                    <a href=#>
-                        <img class="activator" src="">
-                        </a>
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Swift (Coming soon)<i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href="#"></a></p>
-                    </div>
-                </div>
+          
             </div>
            
             </div>
