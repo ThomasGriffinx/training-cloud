@@ -14,7 +14,7 @@
     <div class="nav-wrapper container">
       <ul class="right hide-on-med-and-down">
         <li><a href="../index.html">Home</a></li>
-          <li><a href="../KeyFeatures.html">Guides</a></li>
+          <li><a href="../KeyFeatures.html"></a></li>
       </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
         <li>Guides</li>
@@ -42,8 +42,6 @@
   <div class="container">
     <div class="section">
 
-      <!--   Icon Section   -->
-
         <div class="row">
         <div class="col s12 m4">
           <div class="icon-block">
@@ -58,7 +56,7 @@
             <h2 class="center brown-text"><i class="material-icons">group</i></h2>
             <h5 class="center">Tailored Feedback</h5>
 
-            <p class="light">Providing PaaS based analytics allows users to pin point pain areas like never before</p>
+            <p class="light">Improve your skills based on our feedback</p>
           </div>
         </div>
 
@@ -120,7 +118,7 @@
                         </a>
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">HTML(Coming Soon)<i class="mdi-navigation-more-vert right"></i></span>
+                        <span class="card-title activator grey-text text-darken-4">HTML(Coming soon)<i class="mdi-navigation-more-vert right"></i></span>
                         <p><a href=#></a></p>
                     </div>
                 </div>
@@ -133,7 +131,7 @@
                         </a>
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Swift (Coming Soon)<i class="mdi-navigation-more-vert right"></i></span>
+                        <span class="card-title activator grey-text text-darken-4">Swift (Coming soon)<i class="mdi-navigation-more-vert right"></i></span>
                         <p><a href="#"></a></p>
                     </div>
                 </div>
@@ -145,6 +143,8 @@
 </div>
 
 <br> </br>
+
+
 <p class="light">
 
 </p>
