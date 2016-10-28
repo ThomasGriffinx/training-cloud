@@ -17,6 +17,11 @@
            <li><a href="../SignUp.html">Sign Up</a></li>
       </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
+      <ul class="side-nav" id="mobile-demo">
+        <li><a href="../index.php">Home</a></li>
+        <li><a href="../Login.html">Login</a></li>
+        <li><a href="../SignUp.html">Sign Up</a></li>
+      </ul>
     </div>
   </nav>
 
