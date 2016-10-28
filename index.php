@@ -13,7 +13,8 @@
     <div class="nav-wrapper container">
       <ul class="right hide-on-med-and-down">
         <li><a href="../index.html">Home</a></li>
-          <li><a href="../KeyFeatures.html"></a></li>
+          <li><a href="../Login.html">Login</a></li>
+           <li><a href="../SignUp.html">Sign Up</a></li>
       </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
         <li>Guides</li>
