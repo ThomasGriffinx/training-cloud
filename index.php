@@ -15,10 +15,9 @@
         <li><a href="../index.html">Home</a></li>
           <li><a href="../Login.html">Login</a></li>
            <li><a href="../SignUp.html">Sign Up</a></li>
-      </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
-        <li>Guides</li>
-    </div>
+             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
+           </ul>
+      </div>
   </nav>
 
     
