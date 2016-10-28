@@ -106,7 +106,7 @@
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
                     <a href=#>
-                        <img class="activator" src="java.jpg">
+                        <img class="activator" src="../Images/java.jpg">
                         </a>
                     </div>
                     <div class="card-content">
