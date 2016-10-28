@@ -9,14 +9,15 @@
   <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
-  <nav class="white" role="navigation">
-    <div class="nav-wrapper container">
+ <nav>
+    <div class="nav-wrapper">
+      <a href="#!" class="brand-logo"></a>
+      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="../index.html">Home</a></li>
-          <li><a href="../Login.html">Login</a></li>
-           <li><a href="../SignUp.html">Sign Up</a></li>
+        <li><a href="../index.php">Home</a></li>
+        <li><a href="../Login.html">Login</a></li>
+        <li><a href="../SignUp.html">Sign Up</a></li>
       </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
       <ul class="side-nav" id="mobile-demo">
         <li><a href="../index.php">Home</a></li>
         <li><a href="../Login.html">Login</a></li>
