@@ -111,7 +111,7 @@
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Java<i class="mdi-navigation-more-vert right"></i></span>
-                        <p><a href=Java.html></a></p>
+                        <p><a href=../Java.html></a></p>
                     </div>
                 </div>
             </div>
