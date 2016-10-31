@@ -105,7 +105,7 @@
             <div class="col s12 m4 l4">
                 <div class="card">
                     <div class="card-image waves-effect waves-block waves-light">
-                    <a href=#>
+                    <a href=../Java.html>
                         <img class="activator" src="../Images/java.jpg">
                         </a>
                     </div>
