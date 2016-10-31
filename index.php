@@ -35,7 +35,7 @@
           <h5 class="header col s12 light bold">Researching Cloud Technologies to Improve Training Solutions for Novice Programmers</h5>
         </div>
         <div class="row center">
-          <a href="../SignUp.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Get Started</a>
+          <a href="../index.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Get Started</a>
         </div>
         <br><br>
       </div>
@@ -89,7 +89,7 @@
           <h5 class="header col s12 light">Explore Development Methods</h5>
         </div>
         <div class="row center">
-          <a href="../devGudies.html" class="btn-large waves-effect waves-light blue lighten-1">Dev Guides</a>
+          <a href="../devGuides.html" class="btn-large waves-effect waves-light blue lighten-1">Dev Guides</a>
         </div>
         <br><br>
       </div>
