@@ -30,9 +30,9 @@
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
       <div class="container">
-        <h1 class="header center white-text">Training Cloud</h1>
+        <h1 class="header center teal-text">Training Cloud</h1>
         <div class="row center">
-          <h5 class="header col s12 light">A Modern Training Solution for Novice Programmers</h5>
+          <h5 class="header col s12 teal">A Modern Training Solution for Novice Programmers</h5>
         </div>
         <div class="row center">
           <a href="../SignUp.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Get Started</a>
