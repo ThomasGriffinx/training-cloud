@@ -89,7 +89,7 @@
           <h5 class="header col s12 light">Explore Development Methods</h5>
         </div>
         <div class="row center">
-          <a href="../devGuides.html">Dev Guides</a>
+          <a href="../devGudies.html" class="btn-large waves-effect waves-light blue lighten-1">Dev Guides</a>
         </div>
         <br><br>
       </div>
