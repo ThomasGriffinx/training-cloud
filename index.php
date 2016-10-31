@@ -15,13 +15,13 @@
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="../index.php">Home</a></li>
-        <li><a href="../Login.html">Login</a></li>
-        <li><a href="../SignUp.html">Sign Up</a></li>
+        <li><a href="../index.html">Login</a></li>
+        <li><a href="../index.html">Sign Up</a></li>
       </ul>
       <ul class="side-nav" id="mobile-demo">
         <li><a href="../index.php">Home</a></li>
-        <li><a href="../Login.html">Login</a></li>
-        <li><a href="../SignUp.html">Sign Up</a></li>
+        <li><a href="../index.html">Login</a></li>
+        <li><a href="../index.html">Sign Up</a></li>
       </ul>
     </div>
   </nav>
@@ -84,12 +84,12 @@
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
       <div class="container">
-        <h1 class="header center white-text">Cloud based Training</h1>
+        <h1 class="header center white-text">Learn Coding Concepts</h1>
         <div class="row center">
-          <h5 class="header col s12 light">Looking to get started?</h5>
+          <h5 class="header col s12 light">Explore Development Methods</h5>
         </div>
         <div class="row center">
-          <a href="https://developers.openshift.com/getting-started" id="download-button" class="btn-large waves-effect waves-light blue lighten-1">Documentation</a>
+          <a href="https://developers.openshift.com/getting-started" id="download-button" class="btn-large waves-effect waves-light blue lighten-1">Dev Guides</a>
         </div>
         <br><br>
       </div>
