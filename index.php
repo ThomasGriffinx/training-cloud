@@ -35,7 +35,7 @@
           <h5 class="header col s12 light bold">Researching Cloud Technologies to Improve Training Solutions for Novice Programmers</h5>
         </div>
         <div class="row center">
-          <a href="../index.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Get Started</a>
+          <a href="../mainjava.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Get Started</a>
         </div>
         <br><br>
       </div>
